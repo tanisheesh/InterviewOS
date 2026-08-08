@@ -12,6 +12,9 @@
 </p>
 
 <p align="center">
+  <a href="https://interviewos.tanisheesh.in">
+    <img src="https://img.shields.io/badge/live_demo-BCFF5E-BCFF5E?style=flat-square" alt="Live Demo">
+  </a>
   <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" alt="Next.js">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
@@ -28,7 +31,7 @@
 
 InterviewOS is a self-paced mock interview tool for engineers, product managers, and data scientists who want structured feedback rather than a generic "good answer" from a practice partner. You pick a track, receive a real question drawn from your unanswered pool, type or speak your answer, and get a 1–10 score across three dimensions — correctness, clarity, and edge-case depth — with written justification per dimension. A dashboard tracks score trends over every session so you can see yourself improve across attempts.
 
-> **Live demo →** [interviewos.vercel.app](https://interviewos.vercel.app)
+> **Live demo →** [interviewos.tanisheesh.in](https://interviewos.tanisheesh.in)
 
 ---
 

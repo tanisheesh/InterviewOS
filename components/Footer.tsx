@@ -11,7 +11,7 @@ export default function Footer() {
         <span className="text-red-500" aria-label="love">♥</span>{" "}
         by{" "}
         <a
-          href="https://tanisheesh.is-a.dev/"
+          href="https://tanisheesh.in/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-[#555] hover:text-brand-500 transition-colors font-bold"

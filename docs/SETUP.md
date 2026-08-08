@@ -1,6 +1,6 @@
 # Local Setup — InterviewOS
 
-> **Just want to try it?** Use the live demo at [interviewos.vercel.app](https://interviewos.vercel.app) — no setup needed.
+> **Just want to try it?** Use the live demo at [interviewos.tanisheesh.in](https://interviewos.tanisheesh.in) — no setup needed.
 > This guide is for running InterviewOS locally or self-hosting it.
 
 ---
